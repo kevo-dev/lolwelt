@@ -19,7 +19,7 @@ export default function Header() {
 
         <div className="flex flex-row items-center gap-1">
           <Mail className="size-5" />
-          <span className="tracking-wide">contact@safari.co.ke</span>
+          <span className="tracking-wide">contact@lolwelt.co.ke</span>
         </div>
       </div>
 
